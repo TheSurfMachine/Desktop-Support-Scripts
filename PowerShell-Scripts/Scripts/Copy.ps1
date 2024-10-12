@@ -1,0 +1,1 @@
+Copy-Item "E:\_DOCS\*.*" -destination "C:\Test"

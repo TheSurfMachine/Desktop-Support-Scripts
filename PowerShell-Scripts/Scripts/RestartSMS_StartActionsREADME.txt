@@ -1,0 +1,1 @@
+psexec \\desktop cmd /c "cscript c:\windows\ccm\myscript.vbs"
